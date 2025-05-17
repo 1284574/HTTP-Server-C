@@ -1,5 +1,5 @@
 # HTTP-Server-C
-Multithreaded, concurrent web server implemented in C
+HTTP Web server and Client implemented in C
 
 Makefile: make to compile, clean to remove executables
 
